@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @recovery90
 - 👀 I’m interested in tennis and coffee.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning Unity.
 - 💞️ I’m looking to collaborate on game development
-- 📫 How to reach me: not today son.
+- 📫 How to reach me: 
 
 <!---
 recovery90/recovery90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
